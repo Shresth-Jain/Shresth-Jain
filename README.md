@@ -1,10 +1,20 @@
-## नमस्ते (Namaste), I am [Dhruv Jain](http://maddhruv.xyz/?=github)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste), I am Shresth Jain
 
+<!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> -->
+<!-- <img src="https://user-images.githubusercontent.com/62640364/198111743-be65d92b-1f70-4e05-8b1e-9743818e1682.gif" height="250" width="500"/> -->
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/62640364/198115534-98a0382a-fbff-4f39-9a86-850986799691.gif)
+
+<!--
+How to make this gif ?
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to mp4 using OBS Studio and edited and redered to GIF using KdenLive and croped it using https://ezgif.com/in Windows 11.
+-->
 
 <p>Welcome to my page! 
 <br>
-I'm Shresth Jain, Competitive Programmer and a Web developer from <img src="https://img.icons8.com/color/48/000000/india-circular.png" width=14/> <b>New Delhi, India</b>.
+I am a competitive programmer and a Full Stack Developer. Currently in 4th year, pursuing B.Tech in Mathematics and Computing from Delhi Technological University. I have a strong grasp of the programming language C++, Data Structures, Algorithms, and the core subjects including Object-Oriented Programming, Operating Systems, Database Management systems, and Artificial Intelligence. Particularly passionate about Linux.</b>.
   
  
 ## 📈 Stats
