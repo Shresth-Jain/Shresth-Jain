@@ -6,6 +6,18 @@
 <br>
 I'm Shresth Jain, Competitive Programmer and a Web developer from <img src="https://img.icons8.com/color/48/000000/india-circular.png" width=14/> <b>New Delhi, India</b>.
   
+ 
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shresth-Jain&show_icons=true&count_private=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shresth-Jain&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Shresth-Jain/Shresth-Jain/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <!--
 **Shresth-Jain/Shresth-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
