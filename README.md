@@ -14,8 +14,6 @@ Then i recorded my screen to mp4 using OBS Studio and edited and redered to GIF 
 
 <p>Welcome to my page! 
 <br>
-I am a competitive programmer and a Full Stack Developer. Currently in 4th year, pursuing B.Tech in Mathematics and Computing from Delhi Technological University. I have a strong grasp of the programming language C++, Data Structures, Algorithms, and the core subjects including Object-Oriented Programming, Operating Systems, Database Management systems, and Artificial Intelligence. Particularly passionate about Linux.</b>.
-  
  
 ## 📈 Stats
 <p align="center">
