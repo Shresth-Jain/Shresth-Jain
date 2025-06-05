@@ -3,7 +3,6 @@
 <!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> -->
 <!-- <img src="https://user-images.githubusercontent.com/62640364/198111743-be65d92b-1f70-4e05-8b1e-9743818e1682.gif" height="250" width="500"/> -->
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/62640364/198115534-98a0382a-fbff-4f39-9a86-850986799691.gif)
 
 <!--
 How to make this gif ?
