@@ -17,7 +17,6 @@ Then i recorded my screen to mp4 using OBS Studio and edited and redered to GIF 
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shresth-Jain&show_icons=true&count_private=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shresth-Jain&theme=tokyonight" />
 </p>
 
